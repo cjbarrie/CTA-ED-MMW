@@ -1,4 +1,4 @@
-Repo for teaching materials in Research Training Centre "Intro. Quantitative Text Analysis" Micro-Methods Workshop, University of Edinburgh.
+Repo for teaching materials in Research Training Centre "Intro. Computational Text Analysis" Micro-Methods Workshop, University of Edinburgh.
 
 Overview lecture slides [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/cjbarrie/CTA-Ed/main/rtc_CTA_intro.pdf)
 
